@@ -1,3 +1,3 @@
-#Advent of code 2023
+# Advent of code 2023
 
-I am learning rust doing advent of code 2023 using rust
+I do advent of code 2023 using rust to learn this langage

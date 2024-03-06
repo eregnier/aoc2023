@@ -69,7 +69,7 @@ mod tests {
             result += game.colors["green"] * game.colors["red"] * game.colors["blue"];
         }
 
-        println!("day 1 step 2 : {}", result);
+        println!("day 2 step 2 : {}", result);
     }
 }
 
